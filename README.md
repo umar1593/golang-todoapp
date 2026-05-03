@@ -1,1 +1,1 @@
-goland-todoapp
+golang-todoapp
